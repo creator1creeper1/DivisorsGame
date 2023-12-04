@@ -1,0 +1,518 @@
+1
+11
+62
+442
+2187
+9039
+30265
+84081
+196338
+391989
+674270
+1005213
+1305028
+1497654
+(1) wins!
+do (1 does "2"), then
+	(2) all impossible:
+		if (2 does "1"), then
+			do (1 does "11"), then
+				(2) all impossible:
+		if (2 does "4"), then
+			do (1 does "12"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "3"), then
+						do (1 does "6"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "18"), then
+									do (1 does "9"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+					if (2 does "6"), then
+						do (1 does "3"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "9"), then
+									do (1 does "18"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "15"), then
+									do (1 does "5"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "10"), then
+												do (1 does "20"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+											if (2 does "20"), then
+												do (1 does "10"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "18"), then
+									do (1 does "9"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+		if (2 does "6"), then
+			do (1 does "3"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "9"), then
+						do (1 does "18"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+					if (2 does "12"), then
+						do (1 does "4"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "8"), then
+									do (1 does "16"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "16"), then
+									do (1 does "8"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "20"), then
+									do (1 does "10"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "5"), then
+												do (1 does "15"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+					if (2 does "15"), then
+						do (1 does "5"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "10"), then
+									do (1 does "20"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "4"), then
+												do (1 does "12"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "20"), then
+									do (1 does "10"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+					if (2 does "18"), then
+						do (1 does "9"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+		if (2 does "8"), then
+			do (1 does "16"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "4"), then
+						do (1 does "12"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "3"), then
+									do (1 does "6"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "6"), then
+									do (1 does "3"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "9"), then
+												do (1 does "18"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+											if (2 does "15"), then
+												do (1 does "5"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "10"), then
+															do (1 does "20"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+														if (2 does "20"), then
+															do (1 does "10"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+		if (2 does "10"), then
+			do (1 does "5"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "15"), then
+						do (1 does "3"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "6"), then
+									do (1 does "12"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "4"), then
+												do (1 does "20"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "9"), then
+									do (1 does "18"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "6"), then
+												do (1 does "12"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "4"), then
+															do (1 does "20"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+								if (2 does "12"), then
+									do (1 does "6"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "18"), then
+									do (1 does "9"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+					if (2 does "20"), then
+						do (1 does "4"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "8"), then
+									do (1 does "16"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "12"), then
+									do (1 does "6"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "3"), then
+												do (1 does "15"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "3"), then
+															do (1 does "15"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+								if (2 does "16"), then
+									do (1 does "8"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+		if (2 does "12"), then
+			do (1 does "4"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "8"), then
+						do (1 does "16"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+					if (2 does "16"), then
+						do (1 does "8"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+					if (2 does "20"), then
+						do (1 does "10"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "5"), then
+									do (1 does "15"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "3"), then
+												do (1 does "6"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "18"), then
+															do (1 does "9"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+		if (2 does "14"), then
+			do (1 does "7"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+		if (2 does "16"), then
+			do (1 does "8"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "4"), then
+						do (1 does "12"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "3"), then
+									do (1 does "6"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "6"), then
+									do (1 does "3"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "9"), then
+												do (1 does "18"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+											if (2 does "15"), then
+												do (1 does "5"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "10"), then
+															do (1 does "20"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+														if (2 does "20"), then
+															do (1 does "10"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+											if (2 does "18"), then
+												do (1 does "9"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+		if (2 does "18"), then
+			do (1 does "6"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "3"), then
+						do (1 does "9"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+					if (2 does "12"), then
+						do (1 does "4"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "8"), then
+									do (1 does "16"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "16"), then
+									do (1 does "8"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+								if (2 does "20"), then
+									do (1 does "10"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "5"), then
+												do (1 does "15"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "3"), then
+															do (1 does "9"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+		if (2 does "20"), then
+			do (1 does "4"), then
+				(2) all impossible:
+					if (2 does "1"), then
+						do (1 does "11"), then
+							(2) all impossible:
+					if (2 does "8"), then
+						do (1 does "16"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+					if (2 does "12"), then
+						do (1 does "6"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
+								if (2 does "3"), then
+									do (1 does "15"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "5"), then
+												do (1 does "10"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+								if (2 does "18"), then
+									do (1 does "9"), then
+										(2) all impossible:
+											if (2 does "1"), then
+												do (1 does "11"), then
+													(2) all impossible:
+											if (2 does "3"), then
+												do (1 does "15"), then
+													(2) all impossible:
+														if (2 does "1"), then
+															do (1 does "11"), then
+																(2) all impossible:
+														if (2 does "5"), then
+															do (1 does "10"), then
+																(2) all impossible:
+																	if (2 does "1"), then
+																		do (1 does "11"), then
+																			(2) all impossible:
+					if (2 does "16"), then
+						do (1 does "8"), then
+							(2) all impossible:
+								if (2 does "1"), then
+									do (1 does "11"), then
+										(2) all impossible:
