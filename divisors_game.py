@@ -1,5 +1,5 @@
 def flatten(lst):
-    return [j for i in lst for j in i]
+    return [inner for outer in lst for inner in outer]
 
 class StringWithTree:
     def __init__(self, s, t):
